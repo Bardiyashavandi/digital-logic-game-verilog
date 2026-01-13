@@ -1,0 +1,63 @@
+IO_LOC  "clk" 52;
+IO_PORT "clk" PULL_MODE=UP;
+
+IO_LOC  "led[0]" 51;
+
+IO_LOC  "led[1]" 53;
+
+IO_LOC  "led[2]" 54;
+
+IO_LOC  "led[3]" 55;
+
+IO_LOC  "led[4]" 56;
+
+IO_LOC  "led[5]" 57;
+
+IO_LOC  "led[6]" 68;
+
+IO_LOC  "led[7]" 69;
+
+IO_LOC  "a_out" 42;
+
+IO_LOC  "b_out" 35;
+
+IO_LOC  "c_out" 34;
+
+IO_LOC  "d_out" 30;
+
+IO_LOC  "e_out" 29;
+
+IO_LOC  "f_out" 41;
+
+IO_LOC  "g_out" 40;
+
+IO_LOC  "p_out" 33;
+
+IO_LOC  "an[0]" 25;
+
+IO_LOC  "an[1]" 26;
+
+IO_LOC  "an[2]" 27;
+
+IO_LOC  "an[3]" 28;
+
+IO_LOC  "letterIn[0]" 73;
+IO_PORT "letterIn[0]" PULL_MODE=UP;
+
+IO_LOC  "letterIn[1]" 72;
+IO_PORT "letterIn[1]" PULL_MODE=UP;
+
+IO_LOC  "letterIn[2]" 71;
+IO_PORT "letterIn[2]" PULL_MODE=UP;
+
+IO_LOC  "sw3" 70;
+IO_PORT "sw3" PULL_MODE=UP;
+
+IO_LOC  "enterB" 77;
+IO_PORT "enterB" PULL_MODE=UP;
+
+IO_LOC  "rst" 75;
+IO_PORT "rst" PULL_MODE=UP;
+
+IO_LOC  "enterA" 74;
+IO_PORT "enterA" PULL_MODE=UP;
